@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "455750460316",
+    "project_id": "gardensplat-sanoi",
+    "storage_bucket": "gardensplat-sanoi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455750460316:ios:af7b1a820af4417039de59",
+        "android_client_info": {
+          "package_name": "com.sanoi.gardensplat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455750460316-amh4ip4kmel6857cj36fp2jpfbnns9fv.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTKNzSIaG9G8OcE7PHuGSfCnP809KanI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
